@@ -1,2 +1,3 @@
 # LoanPrediction
-A beginner's Machine Learning Project
+Machine Learning Project
+
